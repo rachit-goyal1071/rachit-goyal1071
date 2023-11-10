@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-i'm [Rachit Goyal](https://github.com/rachit-goyal1071), a self-taught iot developer and an android enthusiast. Currently i am learning Taipy for interactive interfaces.
+i'm [Rachit Goyal](https://github.com/rachit-goyal1071), a self-taught iot developer and an android enthusiast. Currently i am learning Taipy for interactive interfaces [example](https://github.com/rachit-goyal1071/cbs-ticket).
+
+<img align='right' src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="240">
 
 
 **Languages & Tools:**
@@ -29,6 +31,12 @@ i'm [Rachit Goyal](https://github.com/rachit-goyal1071), a self-taught iot devel
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rachit-goyal1071&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachit-goyal1071&theme=tokyonight" />
 </p>
+
+### 📫 Let's Connect
+
+- **📧 [Email](rg410345@gmail.com)
+- **🐦 [Twitter](https://twitter.com/Rachit_goyal246)
+- **🔗 [LinkedIn](https://www.linkedin.com/in/rachit-goyal-640b89247/)
 
 <!--
 **rachit-goyal1071/rachit-goyal1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
