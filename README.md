@@ -16,8 +16,8 @@ i'm [Rachit Goyal](https://github.com/rachit-goyal1071), a self-taught iot devel
 
 ### 💡 What I Do
 
-- 🌐 **IoT Development:** I specialize in building Internet of Things (IoT) solutions that connect devices, collect data, and create intelligent ecosystems. From smart home applications to industrial IoT projects, I enjoy creating solutions that make a real-world impact.
-- 📱 **Android Development:** On the mobile front, I design and develop Android applications that blend functionality with a seamless user experience. Whether it's crafting intuitive user interfaces or integrating the latest features, I strive to create engaging and efficient Android solutions.
+- 🌐 **IoT Development:** I specialize in building Internet of Things (IoT) solutions that connect devices, collect data, and create intelligent ecosystems.
+- 📱 **Android Development:** On the mobile front, I design and develop Android applications that blend functionality with a seamless user experience.
 
 ### 🚀 What You'll Find Here
 
