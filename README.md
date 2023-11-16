@@ -21,10 +21,9 @@ i'm [Rachit Goyal](https://github.com/rachit-goyal1071), a self-taught iot devel
 
 ### 🚀 What You'll Find Here
 
-- **Project Showcase:** Explore my repositories to discover a collection of IoT and Android projects. From embedded systems to mobile apps, each project reflects my dedication to quality and innovation.
+- **Project Showcase:** Explore my repositories to discover a collection of IoT and Android projects.
 
-- **Open Source Contributions:** I actively contribute to open source projects, fostering collaboration and community growth. Check out my contributions and let's build amazing things together.
-
+- **Open Source Contributions:** I actively contribute to open source projects, fostering collaboration and community growth.
 
 <p align="center">
 	
