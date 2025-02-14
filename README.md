@@ -37,6 +37,8 @@ i'm [Rachit Goyal](https://github.com/rachit-goyal1071), a self-taught iot devel
 - 🐦 [Twitter](https://twitter.com/Rachit_goyal246)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rachit-goyal-640b89247/)
 
+<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQ2WHvhZoFfmtbh_pQr_Ib51lq4bRVdBbGw&usqp=CAU"></code> Buy me a coffee
+
 <!--
 **rachit-goyal1071/rachit-goyal1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
