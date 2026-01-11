@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-i'm [Rachit Goyal](https://github.com/rachit-goyal1071), a self-taught iot developer and an android enthusiast. Currently i am learning Taipy for interactive interfaces [example](https://github.com/rachit-goyal1071/cbs-ticket).
+I’m Rachit Goyal, a self-taught IoT developer and Android enthusiast. I’m currently interning as a Flutter Developer, working on production-grade mobile applications.
+
+I enjoy building real-world products, exploring mobile technologies, and continuously improving my skills across Android, Flutter, and system-level development.
 
 <img align='right' src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="240">
 
