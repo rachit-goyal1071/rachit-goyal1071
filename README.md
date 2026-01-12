@@ -1,57 +1,79 @@
-## Hi there 👋
-
-I’m Rachit Goyal, a self-taught IoT developer and Android enthusiast. I’m currently interning as a Flutter Developer, working on production-grade mobile applications.
-
-I enjoy building real-world products, exploring mobile technologies, and continuously improving my skills across Android, Flutter, and system-level development.
-
-<img align='right' src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="240">
-
-
-**Languages & Tools:**
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-![](https://img.shields.io/badge/-raspberrypi-007ACC?style=flat-square&logo=raspberrypi)
-
-### 💡 What I Do
-
-- 📱 **Android Development:** On the mobile front, I design and develop Android applications that blend functionality with a seamless user experience.
-- 🌐 **IoT Development:** I specialize in building Internet of Things (IoT) solutions that connect devices, collect data, and create intelligent ecosystems.
-
-### 🚀 What You'll Find Here
-
-- **Project Showcase:** Explore my repositories to discover a collection of IoT and Android projects.
-
-- **Open Source Contributions:** I actively contribute to open source projects, fostering collaboration and community growth.
+<h1 align="center">Hey 👋, I’m Rachit</h1>
+<h3 align="center">Flutter • Android • iOS • Systems</h3>
 
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rachit-goyal1071&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachit-goyal1071&theme=tokyonight" />
+  I build <b>real products</b>, not just demo apps.<br/>
+  Currently interning as a <b>Flutter Developer</b> — shipping production code 🚀
 </p>
 
-### 📫 Let's Connect
+<p align="center">
+  <img src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="260"/>
+</p>
 
-- 📧 [Email](rg410345@gmail.com)
-- 🐦 [Twitter](https://twitter.com/Rachit_goyal246)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rachit-goyal-640b89247/)
+---
 
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQ2WHvhZoFfmtbh_pQr_Ib51lq4bRVdBbGw&usqp=CAU"></code> [Buy me a coffee](https://buymeacoffee.com/rachitgoyal)
+## ⚡ Tech I Actually Use
 
-<!--
-**rachit-goyal1071/rachit-goyal1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,firebase,arduino,git,python,androidstudio" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Into
+
+- 📱 **Mobile Engineering** — Flutter, Android internals, iOS, clean architecture  
+- 🌐 **IoT Systems** — ESP32, sensors, firmware + apps  
+- 🧩 **System Thinking** — how things work *under the hood*  
+- 🚀 **Shipping** — production > perfection  
+
+---
+
+## 🚀 Stuff I’ve Built
+
+### 🛒 Johar Basket
+**Quick-commerce mobile app**  
+Flutter + Firebase + real users  
+<sub>🔒 Private production project</sub>
+
+### 💬 BitChat
+Online + mesh-based **offline chat system**  
+Built in **Swift**  
+<sub>Public repos available</sub>
+
+### 🔌 IoT Projects
+ESP32-based automation, sensors, control apps  
+<sub>Selected repos public</sub>
+
+---
+
+## 🧪 Currently Playing With
+- Swift & iOS internals  
+- Background services & location tracking  
+- Offline-first architectures  
+
+---
+
+## 🌍 Let’s Connect
+
+
+<p align="center">
+  <a href="mailto:rg410345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rg410345%40gmail.com-red?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rachit-goyal-640b89247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rachit%20Goyal-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://twitter.com/Rachit_goyal246">
+    <img src="https://img.shields.io/badge/Twitter-@Rachit_goyal246-1DA1F2?style=for-the-badge"/>
+  </a>
+  <a href="https://open.spotify.com/user/0icezhjcl1af5li2fsb5wmnn8?si=NDqeplAHTKakYsqjEASjRg">
+    <img src="https://img.shields.io/badge/Spotify-Listen🎧-1ED760?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build things. Break them. Learn. Repeat.”</i>
+</p>
